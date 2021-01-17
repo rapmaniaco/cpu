@@ -6,7 +6,8 @@
 | i3 10100f | 4/8 | 3,6 | 4,3 | 579 | 09/01/2021 | TBS | BX8070110100F |
 | Ryzen 3 3100 | 4/8 | 3,6 | 3,9 | ??? | //2021 | Pichau | 100-100000284BOX |
 
-<p>Final <b>x</b> ou <b>k</b> corresponde a possibilidade de overclock.</p>
+<p>Mais núcleos e mais threads permitem mais aplicações abertas ao mesmo tempo. Por exemplo: R3 3300x entrega mais frames nos jogos do que o R5 1600 AF, porém terá desempenho pior se Discord, navegador, ... estiverem abertos.</p>
+<p>Final <b>x</b> (AMD) ou <b>k</b> (Intel) corresponde a possibilidade de overclock.</p>
 <p>i5 10400f roda com pequena sobra Assassin's Creed Odyssey [https://www.youtube.com/watch?v=Qn_NQavZOLE]</p>
 <p>Ryzen 3 3300x usando memórias acima de 2.666 MHz, como 3.200 MHz, tem pequena vantagem</p>
 <p>i3 10100f não mantém 60 FPS com Assassin's Creed Odyssey, mas melhorou em relação ao i3 9100f</p>

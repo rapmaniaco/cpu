@@ -12,3 +12,12 @@
 <p>Ryzen 3 3300x usando memórias acima de 2.666 MHz, como 3.200 MHz, tem pequena vantagem</p>
 <p>i3 10100f não mantém 60 FPS com Assassin's Creed Odyssey, mas melhorou em relação ao i3 9100f</p>
 <p>4/4 em jogos atuais de mundo aberto sofrem para manter estabilidade [https://www.youtube.com/watch?v=GRn6NrTcezk 07:00]</p>
+
+<p></p>
+<h4>CPUs com vídeo integrado</h4>
+
+| CPU | C/T | Base [GHz] | Boost [GHz] | Preço | Data | Loja | Código |
+|   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |   :---:   |
+| Ryzen 3 3200g Vega 8 |  4/4 | 3,6 | 4 | 849 | 16/01/2021 | TBS | YD3200C5FHBOX  |
+| Ryzen 3 2200g Vega 8 |  4/4 | 3,5 | 3,7 | 799 | 16/01/2021 | Pichau | YD2200C5FBBOX |
+<p></p>
